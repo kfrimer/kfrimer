@@ -20,6 +20,7 @@
 
 I'm an **IT student at SPŠE Prešov** (Secondary Technical School of Electrical Engineering) in Slovakia who loves turning ideas into polished, real-world apps.
 
+- 🚀 Founder of my own startup, **OutfititLab**
 - 🍎 Primarily building **native Apple apps** with **Swift** and **SwiftUI**
 - 📱 Shipping **cross-platform mobile apps** with **React Native** & Expo
 - 🌐 Comfortable on the web with **HTML, CSS & JavaScript**
@@ -79,8 +80,8 @@ I'm an **IT student at SPŠE Prešov** (Secondary Technical School of Electrical
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>👗 OutfitLab</h3>
-      <p>A cross-platform <b>mobile</b> app for organizing your wardrobe and finding the best outfit for the day.</p>
+      <h3>👗 OutfititLab</h3>
+      <p>My startup — a cross-platform <b>mobile</b> app for organizing your wardrobe and finding the best outfit for the day.</p>
       <ul>
         <li>Clothing catalog with camera &amp; gallery import</li>
         <li>Outfit generator: casual, sport, outdoor, elegant</li>
