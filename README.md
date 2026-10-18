@@ -35,6 +35,7 @@ struct Kristian: Developer {
 
     let languages = ["Swift", "JavaScript", "Python", "Java", "HTML", "CSS"]
     let focus     = ["SwiftUI", "React Native", "AI-powered apps"]
+    let certified = ["CCNA ITN", "CCNA SRWE", "IT Essentials", "Linux Essentials"]
     let values    = ["clean architecture", "smooth animations", "premium design"]
 
     func currentlyBuilding() -> String {
@@ -161,12 +162,11 @@ struct Kristian: Developer {
     </td>
   </tr>
   <tr>
-    <td><b>🤖 AI</b></td>
+    <td><b>📡 Networking</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square" alt="LLM APIs" />
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Routing_%26_Switching-005073?style=flat-square" alt="Routing and Switching" />
     </td>
   </tr>
   <tr>
@@ -175,6 +175,35 @@ struct Kristian: Developer {
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
+
+## 🏅 Certifications
+
+<p align="center"><sub>Earned through <b>Cisco Networking Academy</b> at SPŠE Prešov</sub></p>
+
+<table align="center">
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/badges/ccna-switching-routing-wireless.svg" width="110" alt="CCNA: Switching, Routing, and Wireless Essentials badge" /><br />
+      <b>CCNA: Switching, Routing &amp; Wireless Essentials</b><br />
+      <sub>Mar 2026 · 70 hours</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/badges/linux-essentials.svg" width="110" alt="Linux Essentials badge" /><br />
+      <b>Linux Essentials</b><br />
+      <sub>May 2025 · 70 hours</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/badges/ccna-introduction-to-networks.svg" width="110" alt="CCNA: Introduction to Networks badge" /><br />
+      <b>CCNA: Introduction to Networks</b><br />
+      <sub>Jun 2024</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/badges/it-essentials.svg" width="110" alt="IT Essentials badge" /><br />
+      <b>IT Essentials: PC Hardware &amp; Software</b><br />
+      <sub>Jun 2024</sub>
     </td>
   </tr>
 </table>
