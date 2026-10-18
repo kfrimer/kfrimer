@@ -9,7 +9,6 @@
 <br />
 
 <a href="https://www.instagram.com/kristianfrimer"><img src="https://img.shields.io/badge/Instagram-kristianfrimer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<img src="https://komarev.com/ghpvc/?username=kfrimer&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
