@@ -10,6 +10,7 @@
 
 <a href="https://www.instagram.com/kristianfrimer"><img src="https://img.shields.io/badge/Instagram-kristianfrimer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.facebook.com/kristian.frimer"><img src="https://img.shields.io/badge/Facebook-Kristi%C3%A1n_Frimer-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:kristianfrimer@outlook.com"><img src="https://img.shields.io/badge/Email-kristianfrimer%40outlook.com-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
 
 </div>
 
