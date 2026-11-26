@@ -138,8 +138,8 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <rect class="bar" style="animation-delay:3.31s" x="908.5" y="703.0" width="6.8" height="3.0" rx="1.5" fill="#161b22"/>
 <rect class="bar" style="animation-delay:3.34s" x="918.3" y="703.0" width="6.8" height="3.0" rx="1.5" fill="#161b22"/>
 <rect class="bar" style="animation-delay:3.37s" x="928.1" y="703.0" width="6.8" height="3.0" rx="1.5" fill="#161b22"/>
-<rect class="bar" style="animation-delay:3.40s" x="937.9" y="703.0" width="6.8" height="3.0" rx="1.5" fill="#161b22"/>
-<rect class="bar" style="animation-delay:3.43s" x="947.7" y="478.0" width="6.8" height="228.0" rx="1.5" fill="#56d364"/>
+<rect class="bar" style="animation-delay:3.40s" x="937.9" y="478.0" width="6.8" height="228.0" rx="1.5" fill="#56d364"/>
+<rect class="bar" style="animation-delay:3.43s" x="947.7" y="703.0" width="6.8" height="3.0" rx="1.5" fill="#161b22"/>
 <text x="662" y="724" font-size="10" fill="#484f58">30d ago</text>
 <text x="956" y="724" font-size="10" fill="#484f58" text-anchor="end">today</text>
 </svg>
